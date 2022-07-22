@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jagadeeshTechie
-- 👀 I’m interested in Spftware Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python, Pandas, VueJs, VBA, FastAPI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
